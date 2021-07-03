@@ -13,6 +13,6 @@ git -C /home/plarpoon/Repositories/virtual-desktop-bar pull
 /home/plarpoon/Repositories/Fluent-icon-theme/install.sh -a
 /home/plarpoon/Repositories/Vimix-cursors/install.sh
 
-# Virtual desktop requires to CD into folder
+# virtual-desktop-bar requires to CD into folder
 cd /home/plarpoon/Repositories/virtual-desktop-bar
 ./scripts/install-applet.sh
